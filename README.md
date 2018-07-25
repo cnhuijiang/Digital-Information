@@ -1,7 +1,7 @@
 # Digital-Information
 ### Author:Hui Jiang
 ### Purpose: 
-* [Understanding the difference between Bit and Byte.](https://github.com/cnhuijiang/Digital-Information/blob/master/Bit%20and%20Byte.mdm)
+* [Understanding the difference between Bit and Byte.](https://github.com/cnhuijiang/Digital-Information/blob/master/Bit%20and%20Byte.md)
 * What is the Bandwidth?
 * What's the Prefiexs meaning?
 ### Target Audience:
