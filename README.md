@@ -1,7 +1,7 @@
 # Digital-Information
 ### Author:Hui Jiang
 ### Purpose: 
-* Understanding the difference between Bit and Byte.
+* [Understanding the difference between Bit and Byte.](https://www.google.com)
 * What is the Bandwidth?
 * What's the Prefiexs meaning?
 ### Target Audience:
