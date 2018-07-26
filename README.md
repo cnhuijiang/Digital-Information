@@ -6,4 +6,4 @@
 * [Understanding the Prefiexs meaning.](https://github.com/cnhuijiang/Digital-Information/blob/master/Prefiexs.md)
 ### Target Audience:
 * Students who are interested in information technology.
-* People who are confused about the speed of their internet.
+* Young people who are confused about the speed of their internet.
