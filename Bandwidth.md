@@ -4,3 +4,5 @@
 * Google free speed test online.
 ### How bandwidth influence our life?
 * The more bandwidth we have, the more faster speed we download anything.
+Inline-style: 
+![alt text](https://www.bloncampus.com/migration_catalog/article22943387.ece/alternates/FREE_730/BLoCbandwidth)
